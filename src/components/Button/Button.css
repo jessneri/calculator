@@ -1,0 +1,34 @@
+.button{
+    display: flex;
+    height: 3.4em;
+    flex: 1;
+    justify-content:center;
+    align-items:center;
+    font-weight: lighter;
+    font-size:1.4em;
+    background-color: rgba(157, 106, 137, 0.75);
+    color: #fff;
+    border-radius: 50%;
+    margin: .4em;
+}
+
+.operator {
+    background-color: rgba(68, 187, 164, 0.75);
+    color: #fff;
+}
+
+
+.function {
+    display: flex;
+    flex: 1;
+    height: 2em;
+    max-width: 200px;
+    align-items: center;
+    justify-content:center;
+    font-weight:lighter;
+    font-size: 1.4em;
+    background-color: #fff;
+    border-radius: 2em;
+    margin-top: 0.5em;
+    color: #725d68;
+  }
